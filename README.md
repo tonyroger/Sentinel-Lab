@@ -16,7 +16,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/oB8TLRy" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/oB8TLRy.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
 
@@ -29,13 +29,13 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/RAXcZTc" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/RAXcZTc.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://imgur.com/vR4VlZe" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/vR4VlZe.png" height="85%" width="90%" alt="Image Analysis Dataflow"/>
 </p>
 
 
